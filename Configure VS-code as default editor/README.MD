@@ -12,5 +12,5 @@
 
 Resources : 
 
-1. [https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config](Official git docs)
-2. https://stackoverflow.com/questions/69004740/how-to-fix-vs-code-error-permission-denied-unlink-usr-local-bin-code
+1. [Official Git Docs](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
+2. [`EACCES: permission denied, unlink 'usr/local/bin/code'`](https://stackoverflow.com/questions/69004740/how-to-fix-vs-code-error-permission-denied-unlink-usr-local-bin-code())
