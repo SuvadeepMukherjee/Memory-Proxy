@@ -4,4 +4,4 @@
 
 -  [How to remove .DS_STORE if accidentally pushed](https://github.com/SuvadeepMukherjee/Memory-Proxy/tree/main/Remove%20.DS_Store%20Files)
 
-- 
+- [How to view hidden files in a mac]()
